@@ -1,6 +1,6 @@
 ## Log Contributeur 2
 
-```bash
+```text
 
 b8fe6ea (HEAD -> log-contributeur-2, origin/log-contributeur-2) Pushed log contributeur-2
 
@@ -22,4 +22,4 @@ b8fe6ea (HEAD -> log-contributeur-2, origin/log-contributeur-2) Pushed log contr
 
 | | 2d1e7fe Merge pull request #1 from lamtm19/features-contribution77
 
-```
+
