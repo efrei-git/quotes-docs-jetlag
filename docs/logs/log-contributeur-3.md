@@ -1,7 +1,7 @@
 ## Log Contributeur 3
 
 
-```bash
+```text
 * 70fae6f (upstream/gh-pages) Deployed 94c1b16 with MkDocs version: 1.6.1
 * fdc8d8e Deployed 44431ca with MkDocs version: 1.6.1
 * 94c1b16 (HEAD -> log-contributeur-3, upstream/main, upstream/HEAD, main) Refactor documentation and pushed log initateur
@@ -32,4 +32,4 @@
 * 44431ca (origin/main, origin/HEAD) Initial Commit
 * 22a6597 add deadline
 
-```
+
