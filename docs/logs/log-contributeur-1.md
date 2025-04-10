@@ -1,7 +1,7 @@
 ## Log Contributeur 1
 
 ```text
-* 70fae6f (upstream/gh-pages) Deployed 94c1b16 with MkDocs version: 1.6.1
+* 70fae6f (upssqdqsdsqdqtream/gh-pages) Deployed 94c1b16 with MkDocs version: 1.6.1
 * fdc8d8e Deployed 44431ca with MkDocs version: 1.6.1
 * 94c1b16 (HEAD -> log-contributeur-1, upstream/main, main) Refactor documentation and pushed log initiateur
 *   23354b7 Merge pull request #2 from hasham936/functions-contribution
