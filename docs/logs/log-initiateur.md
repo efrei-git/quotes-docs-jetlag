@@ -1,6 +1,6 @@
 ## Log Initiateur
 
-```bash
+```text
 * 71501b4 (origin/gh-pages, gh-pages) Deployed 9e09c19 with MkDocs version: 1.6.1
 * 70fae6f Deployed 94c1b16 with MkDocs version: 1.6.1
 * fdc8d8e Deployed 44431ca with MkDocs version: 1.6.1
@@ -30,4 +30,4 @@ teur-2
 | * \   8676a08 Merge branch 'main' into interface-contribution
 | |\ \
 
-```
+
